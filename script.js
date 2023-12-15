@@ -712,7 +712,7 @@ barba.hooks.afterEnter(() => {
                     testing()
                     initStickyCursorWithDelay()
                     clippp()
-                    imgSizing()
+                   
                     initMagneticButtons()
                     initScrollLetters()
                     initTricksWords()
